@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MD2_Circle/MD2_Circle.iml" filepath="$PROJECT_DIR$/MD2_Circle/MD2_Circle.iml" />
       <module fileurl="file://$PROJECT_DIR$/MD2_StaticMethod/MD2_StaticMethod.iml" filepath="$PROJECT_DIR$/MD2_StaticMethod/MD2_StaticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/MD2_StaticProperty/MD2_StaticProperty.iml" filepath="$PROJECT_DIR$/MD2_StaticProperty/MD2_StaticProperty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MD_Student/MD_Student.iml" filepath="$PROJECT_DIR$/MD_Student/MD_Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD_Student/MD2_Student.iml" filepath="$PROJECT_DIR$/MD_Student/MD2_Student.iml" />
     </modules>
   </component>
 </project>
